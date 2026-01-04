@@ -1,0 +1,37 @@
+# Rust
+/engine/target/
+**/*.rs.bk
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# C/C++ Binaries
+*.exe
+*.o
+*.dll
+*.so
+*.dylib
+# Specific Linux binary names (no extension)
+challenges/01-binary-pwn/vault
+challenges/01-binary-pwn/vault_patched
+
+# Databases
+*.db
+*.sqlite3
+
+# OS Metadata
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp

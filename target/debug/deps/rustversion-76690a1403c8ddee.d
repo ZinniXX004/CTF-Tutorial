@@ -1,0 +1,20 @@
+E:\basic ctf game\target\debug\deps\rustversion-76690a1403c8ddee.d: E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\lib.rs E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\attr.rs E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\bound.rs E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\constfn.rs E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\date.rs E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\error.rs E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\expand.rs E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\expr.rs E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\iter.rs E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\release.rs E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\time.rs E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\token.rs E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\version.rs E:\basic\ ctf\ game\target\debug\build\rustversion-d63db1887bb4c7cd\out\version.expr
+
+E:\basic ctf game\target\debug\deps\rustversion-76690a1403c8ddee.dll: E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\lib.rs E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\attr.rs E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\bound.rs E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\constfn.rs E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\date.rs E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\error.rs E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\expand.rs E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\expr.rs E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\iter.rs E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\release.rs E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\time.rs E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\token.rs E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\version.rs E:\basic\ ctf\ game\target\debug\build\rustversion-d63db1887bb4c7cd\out\version.expr
+
+E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\lib.rs:
+E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\attr.rs:
+E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\bound.rs:
+E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\constfn.rs:
+E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\date.rs:
+E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\error.rs:
+E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\expand.rs:
+E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\expr.rs:
+E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\iter.rs:
+E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\release.rs:
+E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\time.rs:
+E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\token.rs:
+E:\Rust\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustversion-1.0.22\src\version.rs:
+E:\basic\ ctf\ game\target\debug\build\rustversion-d63db1887bb4c7cd\out\version.expr:
+
+# env-dep:OUT_DIR=E:\\basic ctf game\\target\\debug\\build\\rustversion-d63db1887bb4c7cd\\out
